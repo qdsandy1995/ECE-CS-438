@@ -1,1 +1,1 @@
-Implementation of Border Gateway Protocal in C
+Implementation of Border Gateway Protocol in C
